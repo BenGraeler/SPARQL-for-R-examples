@@ -1,5 +1,5 @@
-# linked Amazon in R, part II by Benedikt Gr?ler, ben.graeler@uni-muenster.de
-library(SPARQL) # min version 1.9
+# linked Amazon in R, part II by Benedikt Graeler, ben.graeler@uni-muenster.de
+library(SPARQL)
 library(sp)
 
 # setting the endpoint
